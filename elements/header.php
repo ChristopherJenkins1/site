@@ -15,6 +15,16 @@
     <link rel="stylesheet" type="text/css" media="all" href="Non-origianl work/css/magnific-popup.css">
     <link rel="stylesheet" type="text/css" href="Non-origianl work/css/searchbar.css" />
     <link rel="stylesheet" type="text/css" href="Non-origianl work/css/searchbar2.css" />
+
     <script type="text/javascript" src="Non-origianl work/js/modernizr.custom.js"></script>
+
+    <script src="Non-origianl work/js/jquery-2.1.1.js"></script>
+    <script src="Non-origianl work/js/jquery-migrate-1.2.1.js"></script>
+    <script src="Non-origianl work/js/jquery.easing.1.3.js"></script>
+
+    <script src="Non-origianl work/js/custom-scripts.js"></script>
+    <!--<script type="text/javascript" src="Non-origianl work/js/custom-scroll.js"></script>
+
+    <script type="text/javascript" src="Non-origianl work/js/jquery.magnific-popup.min.js"></script>-->
    <title> <?php echo $pageTitle?>  </title>
 </head>

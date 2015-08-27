@@ -1,4 +1,4 @@
-<div class="navbar">
+<div class="navbar" id='top'>
           <div class="head">
           <a href="index.php"><p>Northgate Lighting Ltd</p></a>
           <div id="sb-search" class="sb-search">

@@ -111,6 +111,25 @@
 
 </body>
 
+   <script type="text/javascript" src="Non-origianl work/js/jquery.magnific-popup.min.js"></script>
+  <script type="text/javascript">
+$(function(){
+  $('#portfolio').magnificPopup({
+    delegate: 'a',
+    type: 'image',
+    image: {
+      cursor: null,
+      titleSrc: 'title'
+    },
+    gallery: {
+      enabled: true,
+      preload: [0,1], // Will preload 0 - before current, and 1 after the current image
+      navigateByImgClick: true
+    }
+  });
+});
+</script>
+
 
   <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script type="text/javascript" src="Non-origianl work/js/jquery.dlmenu.js"></script>
